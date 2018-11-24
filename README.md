@@ -1,4 +1,4 @@
-# Object-Tracking-using-Optical-FLow
+# Object-Tracking-using-Optical-Flow-Estimation
 Built a multi-feature tracker that takes in object bounding boxes for the first frame and tracks them over the
 remaining frames<br />
 
